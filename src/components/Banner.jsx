@@ -10,7 +10,7 @@ const Banner = () => {
     <section className="banner">
       <div className="banner-overlay">
         <div className="banner-content">
-          <h1>Let’s book your trip!</h1>
+          <h1>Let’s book your trips!</h1>
           <p>Choose from over 2+ million hotels worldwide!</p>
         </div>
 
